@@ -1,0 +1,51 @@
+numero_parcelas,superficie_total_ha,porcentaje_produccion_venta,anios_actividad,edad,participa_toma_decisiones,pertenece_asociacion,usa_maquinaria,usa_semilla_certificada,tiene_certificacion_calidad,tiene_seguro_agropecuario,recibio_asistencia_tecnica,nivel_educacion,sexo,departamento,region_natural,tipo_riego_predominante,principal_destino_produccion,principal_canal_venta,tipo_riego_predominante_str
+14,200.271541162512,14.657401518855007,61,73,False,False,False,False,True,True,False,Secundaria incompleta,Hombre,PASCO,Selva,Secano,Venta,Comerciante mayorista,No especificado
+15,12.214150387837835,75.41095453013298,53,72,False,False,True,True,False,False,True,Inicial,Mujer,AYACUCHO,Sierra,Gravedad,Otro,Asociación/Cooperativa,No especificado
+40,629.6073392977607,31.624324343214294,51,86,True,False,False,False,True,False,True,Superior no universitaria incompleta,Hombre,MADRE DE DIOS,Sierra,Mangas,Autoconsumo,Acopiador,MicroAspersion
+24,406.25832124866105,87.13565968454913,30,44,True,False,True,True,True,True,True,Primaria completa,Hombre,ICA,Selva,Secano,Autoconsumo,Sin ventas,Otro
+13,527.3230670719969,96.2934714779022,30,69,True,True,False,False,True,False,False,Primaria incompleta,Mujer,TACNA,Sierra,MicroAspersion,Autoconsumo,Asociación/Cooperativa,No especificado
+7,100.1847685711861,94.33694983292378,57,66,True,False,False,True,False,False,True,Primaria completa,Hombre,PIURA,Selva,Aspersion,Autoconsumo,Consumidor final,Gravedad
+40,996.7513845013472,98.51881484011454,65,50,True,True,False,False,True,True,True,Primaria incompleta,Hombre,LIMA,Selva,No especificado,Venta,Acopiador,Gravedad
+14,593.4602429223909,6.784993367745706,63,47,True,True,True,False,False,False,False,Primaria incompleta,Mujer,JUNIN,Sierra,No especificado,Autoconsumo,Consumidor final,Otro
+27,808.5350031165708,96.42666070014536,11,78,False,False,False,True,True,False,True,Primaria incompleta,Hombre,ANCASH,Selva,Gravedad,Otro,Acopiador,Aspersion
+1,947.9535390554882,83.02878961749445,36,50,False,True,True,True,True,False,True,Inicial,Hombre,MADRE DE DIOS,Sierra,Otro,Otro,Asociación/Cooperativa,Goteo
+24,803.2023524030839,72.31571131811744,56,36,False,False,True,True,False,True,False,Primaria incompleta,Hombre,LIMA,Costa,Gravedad,Autoconsumo,Comerciante mayorista,Mangas
+13,292.0113079454468,6.260201223874651,64,33,False,False,True,False,False,False,False,Secundaria completa,Hombre,AYACUCHO,Costa,Goteo,Autoconsumo,Comerciante mayorista,MicroAspersion
+17,1108.9358743329196,51.54445935499389,3,29,True,False,True,True,True,False,False,Primaria completa,Hombre,PASCO,Costa,Secano,Otro,Comerciante minorista,Otro
+32,570.3095650672094,54.19638388889436,12,49,False,True,False,True,True,True,True,Secundaria incompleta,Mujer,AREQUIPA,Costa,Otro,Venta,Comerciante mayorista,No especificado
+32,350.00465170759196,67.75242115541143,50,80,True,True,True,True,False,True,True,Secundaria incompleta,Hombre,UCAYALI,Selva,Otro,Autoconsumo,Comerciante mayorista,Otro
+31,146.14898444146655,34.97363381660924,20,79,False,False,False,True,True,True,False,Superior universitaria completa,Hombre,JUNIN,Sierra,Aspersion,Otro,Empresa/Agroindustria,Mangas
+23,825.3088224682356,25.009985769389907,49,29,False,True,False,True,False,True,True,Superior no universitaria completa,Mujer,HUANUCO,Costa,Mangas,Otro,Asociación/Cooperativa,Goteo
+3,854.6025374469393,26.316035103083102,11,22,True,True,False,False,True,False,True,Superior no universitaria incompleta,Hombre,LA LIBERTAD,Selva,Otro,Venta,Empresa/Agroindustria,Mangas
+5,776.7032572481937,98.10453454089664,16,83,False,False,False,True,True,False,False,Superior universitaria incompleta,Mujer,MADRE DE DIOS,Costa,Mangas,Otro,Consumidor final,Goteo
+37,411.6474606510167,16.54075874114462,43,92,True,True,True,False,True,True,False,Superior no universitaria completa,Mujer,PASCO,Costa,Secano,Venta,Comerciante minorista,Secano
+31,353.3563388304018,96.20915385178017,59,39,False,False,False,False,False,False,True,Secundaria incompleta,Mujer,HUANCAVELICA,Costa,Secano,Autoconsumo,Comerciante mayorista,Goteo
+35,1048.440326184883,95.41338332679302,33,62,True,True,False,True,False,True,False,Superior universitaria incompleta,Mujer,TUMBES,Costa,Secano,Otro,Sin ventas,Mangas
+10,948.6029117706676,37.47170403032727,8,35,True,True,False,True,True,True,False,Superior universitaria completa,Mujer,PUNO,Costa,Aspersion,Venta,Comerciante mayorista,Otro
+32,77.75995576145547,72.93824312478404,11,54,False,False,False,True,True,False,True,Sin nivel,Mujer,LIMA,Selva,No especificado,Autoconsumo,Acopiador,No especificado
+7,413.6260720295318,42.66349519543161,47,72,False,True,False,False,False,False,False,Primaria incompleta,Mujer,HUANCAVELICA,Selva,No especificado,Autoconsumo,Empresa/Agroindustria,Goteo
+37,56.45469490724504,93.22148625316638,68,54,True,True,False,False,False,False,False,Superior no universitaria completa,Hombre,LA LIBERTAD,Selva,Gravedad,Autoconsumo,Empresa/Agroindustria,Otro
+19,572.2811237581515,24.48014250888797,54,49,True,False,True,False,True,True,False,Inicial,Hombre,CAJAMARCA,Selva,Aspersion,Otro,Sin ventas,Goteo
+11,109.17824660310312,96.3750480541681,42,83,True,True,True,True,False,True,False,Primaria incompleta,Hombre,AREQUIPA,Selva,Aspersion,Otro,Sin ventas,Otro
+20,200.5738960464263,94.78883932398539,51,47,True,False,True,True,False,False,True,Secundaria completa,Hombre,SAN MARTIN,Selva,Mangas,Autoconsumo,Asociación/Cooperativa,Otro
+17,435.93826289075145,72.46367870256366,32,46,False,False,False,False,False,False,False,Inicial,Hombre,TUMBES,Selva,No especificado,Venta,Consumidor final,Gravedad
+34,796.8775722917304,87.35293650674107,46,90,False,False,False,False,True,True,False,Superior universitaria completa,Mujer,PUNO,Selva,Otro,Otro,Consumidor final,Secano
+19,620.2839268253994,92.4648386426636,59,55,True,False,False,True,False,True,True,Primaria completa,Hombre,LA LIBERTAD,Selva,Goteo,Otro,Asociación/Cooperativa,Mangas
+41,843.4184465385155,39.06090394771095,29,20,True,False,False,True,True,False,False,Secundaria incompleta,Hombre,JUNIN,Costa,No especificado,Otro,Comerciante minorista,No especificado
+14,1108.4753049088163,65.29089211782387,17,68,False,False,True,False,True,True,False,Superior universitaria incompleta,Mujer,PUNO,Selva,Secano,Venta,Empresa/Agroindustria,No especificado
+31,758.0800437870366,42.226623208193125,72,21,True,False,True,False,True,False,True,Superior universitaria incompleta,Mujer,PASCO,Costa,Gravedad,Autoconsumo,Sin ventas,MicroAspersion
+32,682.4248934299825,80.10806048055102,56,24,True,False,True,True,False,False,False,Secundaria completa,Hombre,SAN MARTIN,Costa,No especificado,Venta,Sin ventas,Mangas
+36,294.6959279587622,93.19093906011821,59,88,True,True,True,False,True,True,False,Superior universitaria incompleta,Hombre,TACNA,Sierra,No especificado,Otro,Empresa/Agroindustria,No especificado
+7,503.3217569814448,95.05836354152247,30,84,False,False,False,True,False,False,True,Superior universitaria incompleta,Hombre,TACNA,Costa,Gravedad,Otro,Consumidor final,Secano
+14,374.9682653976665,64.81853801956056,64,68,False,True,False,True,True,True,True,Superior universitaria completa,Mujer,MOQUEGUA,Selva,Secano,Autoconsumo,Asociación/Cooperativa,No especificado
+2,248.8733607567024,33.33734420056504,26,65,True,False,False,True,False,False,True,Secundaria incompleta,Mujer,CAJAMARCA,Costa,Goteo,Autoconsumo,Consumidor final,No especificado
+31,932.9692432523261,98.60579323658885,11,23,True,True,True,False,False,False,False,Inicial,Hombre,TACNA,Costa,No especificado,Otro,Empresa/Agroindustria,Goteo
+33,126.69475128074241,5.360698352882376,27,80,False,False,False,True,False,True,False,Sin nivel,Hombre,APURIMAC,Selva,Goteo,Venta,Empresa/Agroindustria,Otro
+23,750.9660886760714,70.33304071597327,31,53,True,True,True,False,True,False,False,Inicial,Hombre,MADRE DE DIOS,Sierra,Gravedad,Otro,Asociación/Cooperativa,No especificado
+21,1089.5208790378329,47.22731377406364,72,80,True,False,True,False,True,False,True,Primaria incompleta,Hombre,LIMA,Sierra,MicroAspersion,Autoconsumo,Empresa/Agroindustria,Aspersion
+24,660.306876706894,1.4269669920354833,66,68,True,True,True,True,True,True,True,Inicial,Mujer,UCAYALI,Costa,MicroAspersion,Autoconsumo,Comerciante mayorista,Secano
+31,358.02939594275614,64.69782874546098,53,45,False,False,True,True,True,True,True,Primaria incompleta,Hombre,UCAYALI,Selva,Secano,Autoconsumo,Asociación/Cooperativa,Gravedad
+17,766.8715485774984,61.35500616463337,38,50,False,False,False,True,True,False,False,Superior universitaria incompleta,Hombre,LA LIBERTAD,Sierra,Mangas,Venta,Asociación/Cooperativa,MicroAspersion
+36,725.6271368963971,81.69087589195782,49,75,True,False,True,True,False,True,False,Superior no universitaria incompleta,Hombre,LA LIBERTAD,Sierra,Goteo,Venta,Sin ventas,No especificado
+31,287.1978414189054,84.1263168734928,64,48,True,False,True,False,False,True,True,Secundaria incompleta,Mujer,ICA,Selva,Gravedad,Autoconsumo,Sin ventas,Secano
+16,981.9347721180633,73.988659847978,38,44,True,False,True,False,False,False,True,Superior no universitaria incompleta,Mujer,ANCASH,Sierra,Otro,Otro,Acopiador,Aspersion

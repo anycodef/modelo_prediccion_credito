@@ -1,0 +1,51 @@
+nivel_educacion,departamento,edad,numero_parcelas,Real Label (Invented),Predicted Label,Prediction Probability (Si)
+Secundaria incompleta,PASCO,73,14,Si,Si,0.8639804
+Inicial,AYACUCHO,72,15,Si,Si,0.89459
+Superior no universitaria incompleta,MADRE DE DIOS,86,40,Si,Si,0.84511644
+Primaria completa,ICA,44,24,Si,Si,0.9122163
+Primaria incompleta,TACNA,69,13,Si,Si,0.8831126
+Primaria completa,PIURA,66,7,No,Si,0.8883414
+Primaria incompleta,LIMA,50,40,Si,Si,0.89741087
+Primaria incompleta,JUNIN,47,14,Si,Si,0.90790755
+Primaria incompleta,ANCASH,78,27,No,Si,0.8634094
+Inicial,MADRE DE DIOS,50,1,Si,Si,0.9114925
+Primaria incompleta,LIMA,36,24,Si,Si,0.911065
+Secundaria completa,AYACUCHO,33,13,No,Si,0.9129804
+Primaria completa,PASCO,29,17,No,Si,0.9129458
+Secundaria incompleta,AREQUIPA,49,32,No,Si,0.8943426
+Secundaria incompleta,UCAYALI,80,32,Si,Si,0.88468003
+Superior universitaria completa,JUNIN,79,31,Si,Si,0.8510488
+Superior no universitaria completa,HUANUCO,29,23,Si,Si,0.8909404
+Superior no universitaria incompleta,LA LIBERTAD,22,3,Si,Si,0.89544326
+Superior universitaria incompleta,MADRE DE DIOS,83,5,No,Si,0.89214706
+Superior no universitaria completa,PASCO,92,37,No,Si,0.90288115
+Secundaria incompleta,HUANCAVELICA,39,31,No,Si,0.89675146
+Superior universitaria incompleta,TUMBES,62,35,No,Si,0.89616454
+Superior universitaria completa,PUNO,35,10,Si,Si,0.89537996
+Sin nivel,LIMA,54,32,No,Si,0.89242864
+Primaria incompleta,HUANCAVELICA,72,7,No,Si,0.86366963
+Superior no universitaria completa,LA LIBERTAD,54,37,No,Si,0.8956564
+Inicial,CAJAMARCA,49,19,No,Si,0.90966946
+Primaria incompleta,AREQUIPA,83,11,Si,Si,0.8952715
+Secundaria completa,SAN MARTIN,47,20,Si,Si,0.9121527
+Inicial,TUMBES,46,17,No,Si,0.8891791
+Superior universitaria completa,PUNO,90,34,Si,Si,0.8651894
+Primaria completa,LA LIBERTAD,55,19,No,Si,0.89478517
+Secundaria incompleta,JUNIN,20,41,No,Si,0.8909404
+Superior universitaria incompleta,PUNO,68,14,Si,Si,0.90130454
+Superior universitaria incompleta,PASCO,21,31,No,Si,0.91283363
+Secundaria completa,SAN MARTIN,24,32,Si,Si,0.9132378
+Superior universitaria incompleta,TACNA,88,36,Si,Si,0.8891955
+Superior universitaria incompleta,TACNA,84,7,Si,Si,0.8816113
+Superior universitaria completa,MOQUEGUA,68,14,Si,Si,0.86826843
+Secundaria incompleta,CAJAMARCA,65,2,No,Si,0.87104434
+Inicial,TACNA,23,31,Si,Si,0.90639395
+Sin nivel,APURIMAC,80,33,Si,Si,0.85923535
+Inicial,MADRE DE DIOS,53,23,Si,Si,0.9085777
+Primaria incompleta,LIMA,80,21,No,Si,0.8887463
+Inicial,UCAYALI,68,24,No,Si,0.89770234
+Primaria incompleta,UCAYALI,45,31,Si,Si,0.9007601
+Superior universitaria incompleta,LA LIBERTAD,50,17,No,Si,0.88811296
+Superior no universitaria incompleta,LA LIBERTAD,75,36,No,Si,0.8957933
+Secundaria incompleta,ICA,48,31,Si,Si,0.911435
+Superior no universitaria incompleta,ANCASH,44,16,Si,Si,0.9088661
