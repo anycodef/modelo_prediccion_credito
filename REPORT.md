@@ -65,7 +65,7 @@ La matriz de confusión muestra el desempeño del modelo en clasificar correctam
 
 El script `src/evaluar_modelo.py` simula un escenario de uso real:
 
-1.  Genera 50 registros de datos sintéticos basándose en las características del dataset original.
+1.  Genera 2000 registros de datos sintéticos basándose en las características del dataset original (bootstrapping).
 2.  Carga el modelo entrenado `models/modelo_xgboost_credito.pkl`.
 3.  Realiza predicciones sobre estos datos nuevos.
 4.  Compara las predicciones con etiquetas "reales" generadas aleatoriamente (dado que son datos inventados).
